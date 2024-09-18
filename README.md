@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Shriyans Ganpate
+- 👀 I’m interested in pursuing a career in investment banking 
+- 🌱 I’m currently learning financial modelling, especially DCF and LBO models. 
